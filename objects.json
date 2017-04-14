@@ -1,0 +1,27 @@
+{
+  "objects": [
+	{
+      "title": "All Arts",
+      "image": "http://i.imgur.com/QQdHEHs.png",
+      "x": 305,
+      "y": 0
+    },
+	{
+      "title": "Arts + Flag",
+      "image": "http://i.imgur.com/FCtRyVJ.png",
+      "x": 305,
+      "y": 0
+    },
+	{
+      "title": "Cat (wepixel)",
+      "image": "http://i.imgur.com/MNszWZ6.png",
+      "x": 500,
+      "y": 478
+    },
+	{
+      "title": "MSU-2",
+      "image": "http://i.imgur.com/XgKFeSk.png",
+      "x": 520,
+      "y": 525
+  ]
+}
